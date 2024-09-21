@@ -1,4 +1,4 @@
-# Notes Application
+# Notes App
 
 A notes application built using **Kotlin** and **Jetpack Compose**, following **Clean Architecture** and **MVVM** principles. The app utilizes **Dagger Hilt** for dependency injection, **Room Database** for local persistence, and **Kotlin Coroutines** for asynchronous operations.
 
