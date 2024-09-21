@@ -1,4 +1,3 @@
-Notes App
 A simple notes application built using Kotlin and Jetpack Compose with Clean Architecture, MVVM, Dependency Injection (Dagger Hilt), Room Database, and Coroutines for asynchronous operations.
 
 Features
